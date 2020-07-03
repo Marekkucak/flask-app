@@ -1,2 +1,2 @@
 # flask-app
-Jednoducha flask aplikacia
+flask aplikacia
